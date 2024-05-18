@@ -1,6 +1,4 @@
 /* eslint-disable @typescript-eslint/no-unused-vars */
-import { useState } from 'react';
-
 import banner from '../public/images/illustration-article.svg'
 import autor from '../public/images/image-avatar.webp'
 
